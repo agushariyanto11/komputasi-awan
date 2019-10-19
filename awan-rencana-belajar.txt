@@ -1,5 +1,7 @@
 Rencana Belajar Komputasi Awan
 
 -Belajar Web CI
+  *Bootstrap
+  *Laravel
 -Belajar Android API
 -Vlogs
