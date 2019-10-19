@@ -3,4 +3,4 @@ Materi Komputasi Awan dalam satu semester
 -Penggunaan github dan cvs
 -Penggunaan router
 -Setting mikrotik
--Akun Googe
+-Penggunaan android
