@@ -3,6 +3,9 @@ Rencana Belajar Komputasi Awan
 -Belajar Web CI
   *Bootstrap
   *Laravel
+   ^Pendalaman
 -Belajar GIT
 -Belajar Android API
+ ^GPS
 -Vlogs
+-Materi GITHUB
